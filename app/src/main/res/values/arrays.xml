@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="materias">
+        <item>@string/vazio</item>
+        <item>@string/matematica</item>
+        <item>@string/portugues</item>
+        <item>@string/fisica</item>
+        <item>@string/quimica</item>
+        <item>@string/biologia</item>
+        <item>@string/historia</item>
+        <item>@string/geografia</item>
+        <item>@string/filosofia</item>
+        <item>@string/sociologia</item>
+        <item>@string/estrangeira</item>
+        <item>@string/artes</item>
+        <item>@string/redacao</item>
+    </string-array>
+</resources>

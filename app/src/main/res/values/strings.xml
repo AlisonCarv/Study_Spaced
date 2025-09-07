@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Study Spaced</string>
+    <string name="tema">Tema</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="hint_tema">Insira o tema estudado</string>
+    <string name="materia">Matéria</string>
+    <string name="tema_limpo">Os campos foram limpos</string>
+    <string name="tema_salvo">Revisão agendada com sucesso!</string>
+    <string name="tema_estudado">Novo</string>
+    <string name="planoNenhum">Nenhum</string>
+    <string name="planoCompleto">Completo</string>
+    <string name="planoPersonalizado">Personalizado</string>
+    <string name="planoNome">Plano de revisão</string>
+    <string name="matematica">Matemática</string>
+    <string name="portugues">Português</string>
+    <string name="fisica">Física</string>
+    <string name="quimica">Química</string>
+    <string name="biologia">Biologia</string>
+    <string name="historia">História</string>
+    <string name="geografia">Geografia</string>
+    <string name="filosofia">Filosofia</string>
+    <string name="sociologia">Sociologia</string>
+    <string name="estrangeira">Língua Estrangeira</string>
+    <string name="artes">Artes</string>
+    <string name="redacao">Redação</string>
+    <string name="planoVazio">Selecione um plano de revisão</string>
+    <string name="vazio">Selecione uma matéria</string>
+    <string name="preencha_corretamente">Preencha corretamente</string>"
+
 </resources>
